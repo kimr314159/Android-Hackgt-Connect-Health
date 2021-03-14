@@ -16,8 +16,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Connecthealthandroidapp">
         <activity
+            android:name=".MainActivity2"
+            android:label="@string/title_activity_main2"></activity>
+        <activity
             android:name=".ui.login.LoginActivity"
-            android:label="@string/title_activity_login"></activity>
+            android:label="@string/title_activity_login" />
         <!--
              The API key for Google Maps-based APIs is defined as a string resource.
              (See the file "res/values/google_maps_api.xml").
