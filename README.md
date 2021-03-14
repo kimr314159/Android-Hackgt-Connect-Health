@@ -1,4 +1,4 @@
-![Connect-Health](/app/src/main/res/drawable-v24)
+![Connect-Health](/app/src/main/res/drawable-v24/logo.jpg)
 * Submission for 2021 Health Tech- HackGT
 * By Dharani Balakumar [dharanib@gatech.edu](mailto:dharanib@gatech.edu)
 * Naomi Eskinder Woudneh[ nwoudneh3@gatech.edu](mailto:nwoudneh3@gatech.edu)
